@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile
 
-### 📫 How to reach me: lucian@murmurache.com
+### 📫 How to reach me: lucianmurmurache@gmail.com
 
 <!--
 **lucianmurmurache/lucianmurmurache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
