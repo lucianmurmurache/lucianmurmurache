@@ -34,11 +34,6 @@
   <li><a href="mailto:lucianmurmurache@gmail.com">📫</a></li>
 </ul>
 
-
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianmurmurache&show_icons=true&locale=en&layout=compact" alt="lucianmurmurache" />
-</p>
-
 <!--
 **lucianmurmurache/lucianmurmurache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
